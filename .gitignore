@@ -1,3 +1,5 @@
 venv/
 .idea/
 project/data/*
+**/__pycache__/
+project/wandb/
